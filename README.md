@@ -1,6 +1,6 @@
 🙌 
 
-1년차 신입개발자입니다.
+1년차 개발자입니다.
 
 AWS 의 serverless 아키텍쳐와 Javascript, NODE.JS 에 관심이있습니다.
 
